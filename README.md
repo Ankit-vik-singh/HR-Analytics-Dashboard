@@ -9,9 +9,13 @@ The primary objective of this HR Analytics Dashboard is to provide a clear and c
 ## Key Metrics and Visualizations:
 1- Overall Metrics:
 Attrition Count: The total number of employees who have left the organization, currently at 237.
+
 Employee Count: The total number of employees in the organization, which is 1,470.
+
 Attrition Rate: The percentage of employees who have left, calculated at 16.12%.
+
 Active Employees: The number of currently active employees, which is 1,233.
+
 Average Age: The average age of the employees, which is 37 years.
 
 2- Department-wise Attrition:
